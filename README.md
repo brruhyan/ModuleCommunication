@@ -4,7 +4,11 @@ A wireless controller which involves non-conventional components for controlling
 
 Parts used:
 (1) L293D Motor Shield
+
 (1) Arduino Uno
+
 (1) Arduino Nano
+
 (1) MG996R Servo Motor
+
 (1) Rotary Potentiometer
