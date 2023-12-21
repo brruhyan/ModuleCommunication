@@ -13,3 +13,7 @@ Parts used:
 (1) MG996R Servo Motor
 
 (1) Rotary Potentiometer
+
+(1) Pressure Sensor
+
+(2) HC-05 Bluetooth Module
